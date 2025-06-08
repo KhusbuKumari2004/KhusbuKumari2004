@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Khusbu 👋  
+🎓 Final Year B.Tech Student @ NIT Silchar  
+👩‍💻 Technical Development Program Intern @ Optum  
 
-<!--
-**KhusbuKumari2004/KhusbuKumari2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💼 Currently Working On  
+- Authentication & Authorization backend systems under the Aikyam Identity Ecosystem (Nexus ID: N-16758)  
+- Focused on secure identity access, user session management, and scalable API design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Tech Stack  
+- 💻 Java | Spring Boot | C++  
+- 🧠 SQL | MySQL | RESTful APIs  
+- ⚙️ Git | GitHub | VS Code  
+- 📊 Power BI | LabVIEW | MATLAB  
+
+---
+
+📫 Get in Touch  
+- 📧 khushbukp881057@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/khusbu-kumari-3a404b24b/)  
+- 🐙 [GitHub](https://github.com/K-h-u-s-b-u)
+
+---
