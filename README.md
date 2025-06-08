@@ -5,7 +5,7 @@
 ---
 
 💼 Currently Working On  
-- Authentication & Authorization backend systems under the Aikyam Identity Ecosystem (Nexus ID: N-16758)  
+- Authentication & Authorization backend systems under the Aikyam Identity Ecosystem
 - Focused on secure identity access, user session management, and scalable API design
 
 ---
